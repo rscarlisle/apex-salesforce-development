@@ -29,18 +29,15 @@ License
 
 README.md
 
-./api
+./bin
 
-./app
+./public
 
-./typings
+./routes
+
+./views
 ```
 
-```
-./api
-
-./api/products/products.json
-```
 **How to Run Project**
 ----------------------
 1. Required operating system - OSX
